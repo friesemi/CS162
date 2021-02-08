@@ -1,0 +1,19 @@
+Sorted by ID
+199822007 C.J. Cregg Political_Science
+199922004 Olivia Dunham Criminal_Justice
+199922006 Josh Lyman Law
+199922007 Toby Ziegler Communications
+200722013 Leslie Knope Public_and_Environmental_Affairs
+200822013 Sam Seaborn Law
+200922015 Walter Bishop General_Science
+
+Sorted by last name
+199822007 C.J. Ziegler Political_Science 
+199922004 Olivia Seaborn Criminal_Justice 
+199922006 Josh Lyman Law 
+199922007 Toby Knope Communications 
+200722013 Leslie Dunham Public_and_Environmental_Affairs 
+200822013 Sam Cregg Law 
+200922015 Walter Bishop General_Science 
+
+The number of unique majors is: 6
